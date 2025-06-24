@@ -6,6 +6,8 @@ This repository is a handpicked list of must-read books for anyone diving into t
 
 Web Application Pen Testing Methodologies 
 
+Python Programming for Hackers
+
 Bug bounty methodologies
 
 Web, network, and system exploitation
