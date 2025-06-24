@@ -4,15 +4,12 @@ This repository is a handpicked list of must-read books for anyone diving into t
 
 🔍 Topics Covered:
 
-Red Team strategies & tactics
+Web Application Pen Testing Methodologies 
 
 Bug bounty methodologies
 
 Web, network, and system exploitation
 
-Real-world case studies & playbooks
-
-Reverse engineering & malware analysis
 
 Perfect for ethical hackers, red teamers, penetration testers, and bug bounty hunters looking to level up.
 
